@@ -16,6 +16,6 @@ node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 
 
 # СКРІНШОТ ВИКОНАННЯ:
- https://www.dropbox.com/s/ujyu61yik0lf241/Screenshot%202023-06-14%20151816.jpg?dl=0
+https://www.dropbox.com/scl/fo/ps0rc4ie1iksfvua8fox4/h?rlkey=hdssfwx0ub62a57xlxf7dlx7k&dl=0
 
 NB! Запускався test.sh. Contacts.json is restored to contain original data
